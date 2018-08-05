@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: Spring Crawler With Jsoup Library
+
+server:
+  port: 8080
+
+debug: true
+
+target:
+  tarantula:
+    website: http://animals.sandiegozoo.org/animals/tarantula
